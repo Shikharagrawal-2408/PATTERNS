@@ -15,6 +15,7 @@ This repository is perfect for:
 PATTERNS/
 
 ├── cpp/
+
 │ ├── level-1/ # Basic patterns (e.g., square, triangle)
 
 │ ├── level-2/ # Intermediate (e.g., pyramid, inverted patterns)
