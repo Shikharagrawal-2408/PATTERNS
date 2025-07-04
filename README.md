@@ -66,6 +66,7 @@ cd PATTERNS
 ---
 
 ### 📌 Difficulty Levels
+
 Level	Description
 
 Level 1	Beginner-friendly patterns using loops
