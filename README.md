@@ -68,18 +68,26 @@ cd PATTERNS
 Level	Description
 
 Level 1	Beginner-friendly patterns using loops
+
 Level 2	Patterns requiring nested logic & spacing
+
 Level 3	Advanced pattern logic (symmetry, math)
 
-✨ Contributions
+### ✨ Contributions
+
 This is a personal project, but you're welcome to fork and explore!
+
 Want to add patterns in another language (e.g., JavaScript, Kotlin, Go)? Feel free to open an issue or PR.
 
-🙋‍♂️ Author
+### 🙋‍♂️ Author
+
 Shikhar Agrawal
+
 💼 GitHub
 
-🌟 Support
+### 🌟 Support
+
 If you find this helpful, consider giving the repo a ⭐ on GitHub — it motivates me to keep adding more content!
+
 
 ### “Practice like you’ve never won. Perform like you’ve never lost.” — Unknown
