@@ -63,6 +63,7 @@ Clone the repository:
 git clone https://github.com/Shikharagrawal-2408/PATTERNS.git
 cd PATTERNS
 ```
+---
 
 ### 📌 Difficulty Levels
 Level	Description
@@ -73,21 +74,30 @@ Level 2	Patterns requiring nested logic & spacing
 
 Level 3	Advanced pattern logic (symmetry, math)
 
+---
+
 ### ✨ Contributions
 
 This is a personal project, but you're welcome to fork and explore!
 
 Want to add patterns in another language (e.g., JavaScript, Kotlin, Go)? Feel free to open an issue or PR.
 
+---
+
 ### 🙋‍♂️ Author
 
-Shikhar Agrawal
+Hi, I'm **Shikhar Agrawal**, a passionate learner exploring development, Git, and clean coding practices. This repo reflects the tools I use and the journey I'm on.
 
-💼 GitHub
+Connect with me:
+- 🌐 [GitHub Profile](https://github.com/Shikharagrawal-2408)
+- 📫 Coming soon: blog, portfolio, or more!
+
+---
 
 ### 🌟 Support
 
 If you find this helpful, consider giving the repo a ⭐ on GitHub — it motivates me to keep adding more content!
 
+---
 
 ### “Practice like you’ve never won. Perform like you’ve never lost.” — Unknown
