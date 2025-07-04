@@ -13,6 +13,7 @@ This repository is perfect for:
 ## 📁 Repository Structure
 
 PATTERNS/
+
 ├── cpp/
 │ ├── level-1/ # Basic patterns (e.g., square, triangle)
 
@@ -21,12 +22,19 @@ PATTERNS/
 │ └── level-3/ # Advanced (e.g., Pascal’s triangle, butterfly)
 
 ├── java/
+
 │ ├── level-1/
+
 │ ├── level-2/
+
 │ └── level-3/
+
 ├── python/
+
 │ ├── level-1/
+
 │ ├── level-2/
+
 │ └── level-3/
 
 
