@@ -15,8 +15,11 @@ This repository is perfect for:
 PATTERNS/
 ├── cpp/
 │ ├── level-1/ # Basic patterns (e.g., square, triangle)
+
 │ ├── level-2/ # Intermediate (e.g., pyramid, inverted patterns)
+
 │ └── level-3/ # Advanced (e.g., Pascal’s triangle, butterfly)
+
 ├── java/
 │ ├── level-1/
 │ ├── level-2/
